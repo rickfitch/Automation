@@ -1,4 +1,9 @@
 git status
 git init
 git add . //adds all
+git commit
+git branch
+git switch
+git log
+
 vim commands :q, :w, :i, :x
