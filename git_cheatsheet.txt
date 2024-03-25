@@ -1,4 +1,4 @@
 git status
 git init
 git add . //adds all
-vim :q, :w, :i
+vim commands :q, :w, :i, :x
