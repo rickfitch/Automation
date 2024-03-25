@@ -1,6 +1,6 @@
 from pathlib import Path
 
-path = Path("hello.txt")
+path = Path("git_cheatsheet.txt")
 
 if(path.exists()):
     content = path.read_text()
