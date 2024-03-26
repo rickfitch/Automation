@@ -7,5 +7,7 @@ git switch
 git log
 git breanchh -d [branch name] //delete a branch
 git add -m //must have a comment
+git push --all
+
 
 vim commands :q, :w, :i, :x
