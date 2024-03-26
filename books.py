@@ -10,3 +10,5 @@ class Book:
     def __repr__(self):
         return f"<Book {self.title} by {self.author}>"
     
+    def reading(self):
+        print(f"Reading {self.title} by {self.author}")
